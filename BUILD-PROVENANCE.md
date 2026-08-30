@@ -4,7 +4,7 @@
 | --- | --- |
 | Build date | 2026-08-30 Asia/Taipei |
 | Source location | Private local workspace; source is not published in this repository |
-| Source version | Pre-Git local source snapshot |
+| Source version | Private local Git commit `e9facfebfa9dbb4968a75d1bec4c814ccbe95fb7` (no remote configured) |
 | Runtime | Node.js 26.7.0 |
 | Build command | `VITE_BASE_PATH=/smart-nursing-home-demo/ npm run build-only` |
 | Unit tests | 12 passed, 0 failed |
